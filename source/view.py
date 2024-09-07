@@ -46,8 +46,8 @@ def if_not_admin(parent: QtWidgets.QWidget) -> None:
 if __name__ == '__main__':
     app = QtWidgets.QApplication(sys.argv)
     form = MyApp()
-    form.setWindowTitle("CaixaQt | PDV sistema")
-    form.setWindowIcon(QtGui.QIcon("images/cart.png"))
+    form.setWindowTitle("Caixinha | PDV sistema")
+    form.setWindowIcon(QtGui.QIcon("images/logo.png"))
     form.showMaximized()
     if_not_admin(form)
     form.show()

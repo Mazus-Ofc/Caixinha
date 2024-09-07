@@ -1,6 +1,6 @@
 # Caixa de mercado
 Programa tipo PDV para pequenos mercados de unico caixa.
-Feito em Python e Qt caixaQt é ideal para pequnos negocios.
+Feito em Python e Qt Caixinha é ideal para pequnos negocios.
 
 ## Instalando dependencias.
 1. instale o serviço Mysql em sua maquina e configure um database vazio para receber dados.
@@ -24,7 +24,7 @@ Feito em Python e Qt caixaQt é ideal para pequnos negocios.
 
 # Manual de usuário.
 
-Com uma interface amigável e de fácil manuseio e compreensão caixaQt foi pensado para ser
+Com uma interface amigável e de fácil manuseio e compreensão Caixinha foi pensado para ser
 usado por qualquer pessoa sem ser especialista ou ter cursos complexos de operador de caixa
 basta uma leitura rápida neste mini-tutorial e já será possivel operar de maneira segura 
 
@@ -44,7 +44,7 @@ agora o proximo passo é adicionar os produtos no banco de dados, para isso vá 
 
 ### passo 3.
 
-Agora depois de ter cadastrados os seus produtos já pode utilizar o caixaQt para as suas primeiras vendas, caso tenha um leitor
+Agora depois de ter cadastrados os seus produtos já pode utilizar o Caixinha para as suas primeiras vendas, caso tenha um leitor
 de códigos basta apontar para o código do produto e o mesmo será acrescentado automáticamente a lista de compras, caso
 contrário deverás digitar o código da mercadoria no campo de inserção. É comum os clientes levarem mais de um produto do
 mesmo tipo para o caixa então afim de adiantar o processo de caixa é possivel usar o multiplicador **(*)** para indicar a 
