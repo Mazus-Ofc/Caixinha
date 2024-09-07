@@ -1,6 +1,6 @@
 # Caixa de mercado
 Programa tipo PDV para pequenos mercados de unico caixa.
-Feito em Python e Qt Caixinha é ideal para pequnos negocios.
+Feito em Python e Caixinha é ideal para pequnos negocios.
 
 ## Instalando dependencias.
 1. instale o serviço Mysql em sua maquina e configure um database vazio para receber dados.
@@ -20,7 +20,7 @@ Feito em Python e Qt Caixinha é ideal para pequnos negocios.
 ## tela inicial
 #
 #
-<a href="https://i.ibb.co/kHTKRcr/menu.png"><img width=480 height=360 src="https://i.ibb.co/kHTKRcr/menu.png" title="source: pt-br.imgbb.com" /></a>
+<a href="https://i.ibb.co/kHTKRcr"><img width=480 height=360 src="https://i.ibb.co/kHTKRcr/menu.png" title="source: pt-br.imgbb.com" /></a>
 
 # Manual de usuário.
 
